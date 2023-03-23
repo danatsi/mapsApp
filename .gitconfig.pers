@@ -1,0 +1,10 @@
+[user]
+email = dana.tsir@gmail.com
+name = Dana
+
+[github]
+user = danatsi
+
+
+[core]
+sshCommand = "ssh -i ~/.ssh/github-user2"
